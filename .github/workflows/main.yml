@@ -20,13 +20,13 @@ jobs:
           rm -rf Clash-RuleSet-Classical/*
           cp -rf *.list Clash-RuleSet-Classical/
           cd Clash-RuleSet-Classical
-          sed -i "/,/ s/^/  - /" $(ls -l *.list|awk '{print $NF}'|sed '1d')
-          sed -i "/#/ s/^/  /" $(ls -l *.list|awk '{print $NF}'|sed '1d')
-          sed -i "1i\payload:" $(ls -l *.list|awk '{print $NF}'|sed '1d')
-          sed -i "/USER-AGENT/d" $(ls -l *.list|awk '{print $NF}'|sed '1d')
-          sed -i "/URL-REGEX/d" $(ls -l *.list|awk '{print $NF}'|sed '1d')
-          sed -i "/IP-CIDR/ s/\(.*\),\(.*\),.*/\1,\2/gp" $(ls -l *.list|awk '{print $NF}'|sed '1d')
-          for i in $(ls -l *.list|awk '{print $NF}'|sed '1d'|awk -F'.' '{print $1}'); do mv $i.list $i.yaml; done
+          sed -i "/,/ s/^/  - /" $(ls -l *.list|awk '{print $NF}')
+          sed -i "/#/ s/^/  /" $(ls -l *.list|awk '{print $NF}')
+          sed -i "1i\payload:" $(ls -l *.list|awk '{print $NF}')
+          sed -i "/USER-AGENT/d" $(ls -l *.list|awk '{print $NF}')
+          sed -i "/URL-REGEX/d" $(ls -l *.list|awk '{print $NF}')
+          sed -i "/IP-CIDR/ s/\(.*\),\(.*\),.*/\1,\2/gp" $(ls -l *.list|awk '{print $NF}')
+          for i in $(ls -l *.list|awk '{print $NF}'|awk -F'.' '{print $1}'); do mv $i.list $i.yaml; done
           git config --global user.email "yangchuansheng33@gmail.com"
           git config --global user.name "yangchuansheng"
           git add .
