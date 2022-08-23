@@ -17,7 +17,6 @@ jobs:
 
       - name: create rule providers
         run: |
-          mkdir Clash-RuleSet-Classical
           rm -rf Clash-RuleSet-Classical/*
           cp -rf *.list Clash-RuleSet-Classical/
           cd Clash-RuleSet-Classical
