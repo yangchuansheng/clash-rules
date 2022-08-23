@@ -1,0 +1,16 @@
+payload:
+  - PROCESS-NAME,TencentMeeting
+  - PROCESS-NAME,com.eg.android.AlipayGphone
+  - PROCESS-NAME,com.eg.android.AlipayGphone:push
+  - PROCESS-NAME,com.taobao.taobao
+  - PROCESS-NAME,com.taobao.taobao:channel
+  - PROCESS-NAME,cmb.pb
+  - PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity
+  - PROCESS-NAME,com.wireguard.android
+  - PROCESS-NAME,com.sina.weibo
+  - PROCESS-NAME,com.sina.weibo.image
+  - PROCESS-NAME,NemoDesktop
+  - PROCESS-NAME,ToDesk
+  - PROCESS-NAME,ToDesk_Service
+  - PROCESS-NAME,WeChat
+  - PROCESS-NAME,Tailscale
