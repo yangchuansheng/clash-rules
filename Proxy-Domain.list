@@ -267,6 +267,7 @@ DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,hashnode.com
 DOMAIN-SUFFIX,mt.lv
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,reorx.com
 DOMAIN,dns.google
 DOMAIN,one.one.one.one
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
@@ -298,7 +299,6 @@ DOMAIN,cdn-fastly.obsproject.com
 DOMAIN,rogueamoeba.com
 DOMAIN,static.konlonair.com
 DOMAIN,icloudnative.io
-DOMAIN,reorx.com
 DOMAIN-KEYWORD,aptoide
 DOMAIN-KEYWORD,lib.org
 DOMAIN-KEYWORD,lib.net
