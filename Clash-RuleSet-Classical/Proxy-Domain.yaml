@@ -271,6 +271,7 @@ payload:
   - DOMAIN-SUFFIX,mt.lv
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,reorx.com
+  - DOMAIN-SUFFIX,now.sh
   - DOMAIN,dns.google
   - DOMAIN,one.one.one.one
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
