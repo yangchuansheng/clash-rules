@@ -5,6 +5,7 @@ PROCESS-NAME,ToDesk_Service
 PROCESS-NAME,WeChat
 PROCESS-NAME,Tailscale
 PROCESS-NAME,wireguard-go
+PROCESS-NAME,Tunnelblick
 PROCESS-NAME,com.leoao.fitness
 PROCESS-NAME,com.tencent.wework
 PROCESS-NAME,tv.danmaku.bili
