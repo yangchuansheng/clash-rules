@@ -275,6 +275,7 @@ DOMAIN-SUFFIX,isteed.cc
 DOMAIN,dns.google
 DOMAIN,one.one.one.one
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN,services.googleapis.cn
 DOMAIN,opensource.com
 DOMAIN,blog.schoolofdevops.com
 DOMAIN,js.stripe.com
