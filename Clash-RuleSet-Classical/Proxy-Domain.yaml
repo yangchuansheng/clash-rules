@@ -277,6 +277,7 @@ payload:
   - DOMAIN-SUFFIX,changelog.com
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,filen.io
+  - DOMAIN-SUFFIX,kubecost.com
   - DOMAIN,dns.google
   - DOMAIN,one.one.one.one
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
