@@ -281,6 +281,7 @@ payload:
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,umami.is
   - DOMAIN-SUFFIX,samwho.dev
+  - DOMAIN-SUFFIX,umami.is
   - DOMAIN,dns.google
   - DOMAIN,one.one.one.one
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
