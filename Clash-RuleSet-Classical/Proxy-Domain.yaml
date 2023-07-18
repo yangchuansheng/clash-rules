@@ -291,6 +291,7 @@ payload:
   - DOMAIN-SUFFIX,nf.video
   - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,histar.tv
+  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN,dns.google
   - DOMAIN,one.one.one.one
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
