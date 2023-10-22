@@ -7,4 +7,4 @@ http:
     - *.byteoversea.com
     - *.tik-tokapi.com
   rewrite:
-    - (?<=_region=)CN(?=&) url 307 US
+    - ^http://g\.cn https://www.google.com transparent
