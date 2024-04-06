@@ -295,6 +295,7 @@ payload:
   - DOMAIN-SUFFIX,gptgod.site
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,unifoundry.com
   - DOMAIN,dns.google
   - DOMAIN,one.one.one.one
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
