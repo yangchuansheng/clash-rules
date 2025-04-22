@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,yangcs.net
+  - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-KEYWORD,fuckcloudnative
   - DOMAIN-KEYWORD,icloudnative
   - DOMAIN-KEYWORD,qingstor
