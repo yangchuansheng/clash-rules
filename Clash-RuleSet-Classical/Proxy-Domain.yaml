@@ -298,7 +298,7 @@ payload:
   - DOMAIN-SUFFIX,unifoundry.com
   - DOMAIN-SUFFIX,augmentcode.com
   - DOMAIN-SUFFIX,sealos.io
-  - OMAIN-SUFFIX,podwise.ai
+  - DOMAIN-SUFFIX,podwise.ai
   - DOMAIN,dns.google
   - DOMAIN,one.one.one.one
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
